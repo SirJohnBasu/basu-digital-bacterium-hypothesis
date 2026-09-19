@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it using the metadata below."
+title: "The Basu Digital Bacterium Hypothesis: A Falsifiable Framework for Information-Borne Replicators in LLM Systems"
+type: article
+version: "1.0"
+date-released: 2026-09-18
+authors:
+  - family-names: Basu
+    given-names: John Kalyan
+    orcid: "https://orcid.org/0009-0009-5561-4441"
+    affiliation: "THAL-KI (AI & Robotics)"
+doi: 10.5281/zenodo.22830845
+url: "https://doi.org/10.5281/zenodo.22830845"
+license: CC-BY-4.0
+keywords:
+  - Basu Digital Bacterium Hypothesis
+  - large language models
+  - LLM systems
+  - LLM agents
+  - digital evolution
+  - artificial life
+  - information-borne replicators
+  - informational autocatalysis
+  - persistent memory
+  - AI safety
+
