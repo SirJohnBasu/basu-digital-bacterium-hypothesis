@@ -6,6 +6,9 @@
   "datePublished": "2026-09-18",
   "identifier": "https://doi.org/10.5281/zenodo.22830845",
   "url": "https://doi.org/10.5281/zenodo.22830845",
+  "relatedLink": [
+    "https://huggingface.co/datasets/SirJohnBasu/basu-digital-bacterium-hypothesis"
+  ],
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "author": {
     "@type": "Person",
@@ -24,7 +27,16 @@
     "information-borne replicators",
     "informational autocatalysis",
     "persistent memory",
-    "AI safety"
+    "AI safety",
+    "digital bacterium",
+    "BDBH",
+    "digital organisms",
+    "self-replication",
+    "AI agents",
+    "emergence",
+    "model-to-model transmission",
+    "evolutionary computation",
+    "synthetic life",
+    "information ecology"
   ]
 }
-

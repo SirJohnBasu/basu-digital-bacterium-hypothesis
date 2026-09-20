@@ -30,15 +30,19 @@ The peer-independent first public release and canonical PDF are preserved on Zen
 
 The multilingual pages in this repository are explanatory summaries. If wording differs, the English v1.0 PDF on Zenodo is authoritative.
 
+## Distribution mirrors
+
+- [Zenodo canonical publication](https://doi.org/10.5281/zenodo.22830845)
+- [Hugging Face dataset and publication mirror](https://huggingface.co/datasets/SirJohnBasu/basu-digital-bacterium-hypothesis)
+
 ## Research status
 
 **No digital bacterium is claimed to exist. No observation presented in the publication establishes such an entity. The work proposes a falsifiable hypothesis and terminology for future research.**
 
 ## Keywords
 
-Basu Digital Bacterium Hypothesis; large language models; LLM systems; LLM agents; digital evolution; artificial life; information-borne replicators; informational autocatalysis; persistent memory; AI safety.
+Basu Digital Bacterium Hypothesis; large language models; LLM systems; LLM agents; digital evolution; artificial life; information-borne replicators; informational autocatalysis; persistent memory; AI safety; digital bacterium; BDBH; digital organisms; self-replication; AI agents; emergence; model-to-model transmission; evolutionary computation; synthetic life; information ecology.
 
 ## Suggested citation
 
 Basu, J. K. (2026). *The Basu Digital Bacterium Hypothesis: A Falsifiable Framework for Information-Borne Replicators in LLM Systems* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22830845
-
