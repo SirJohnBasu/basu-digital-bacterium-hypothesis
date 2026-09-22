@@ -30,10 +30,11 @@ The peer-independent first public release and canonical PDF are preserved on Zen
 
 The multilingual pages in this repository are explanatory summaries. If wording differs, the English v1.0 PDF on Zenodo is authoritative.
 
-## Distribution mirrors
+## Distribution and translations
 
-- [Zenodo canonical publication](https://doi.org/10.5281/zenodo.22830845)
-- [Hugging Face dataset and publication mirror](https://huggingface.co/datasets/SirJohnBasu/basu-digital-bacterium-hypothesis)
+The original English v1.0 PDF and DOI are on [Zenodo](https://doi.org/10.5281/zenodo.22830845). The [Hugging Face page](https://huggingface.co/datasets/SirJohnBasu/basu-digital-bacterium-hypothesis) is a discovery page; it does not host a copy of the PDF. The [ORCID record](https://orcid.org/0009-0009-5561-4441) identifies the author and links to this work.
+
+The eight translated summaries were prepared with AI assistance and checked against the English source to the best of our ability. They have not been certified by native speakers or professional translators. If any wording differs, the English v1.0 PDF on Zenodo is authoritative.
 
 ## Research status
 
