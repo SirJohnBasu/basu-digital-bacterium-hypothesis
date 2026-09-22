@@ -19,7 +19,12 @@
 
 변경되지 않은 영어 원문 v1.0과 PDF는 [Zenodo](https://doi.org/10.5281/zenodo.22830845)에 보존되어 있습니다. 이 페이지는 설명용 번역 요약이며, 차이가 있을 경우 Zenodo의 영어 PDF가 기준입니다.
 
+## 배포 및 번역 안내
+
+영어 원본 v1.0 PDF와 DOI는 [Zenodo](https://doi.org/10.5281/zenodo.22830845)에 있습니다. [Hugging Face 페이지](https://huggingface.co/datasets/SirJohnBasu/basu-digital-bacterium-hypothesis)는 이 연구를 쉽게 찾도록 돕는 페이지이며 PDF 사본을 제공하지 않습니다. [ORCID 기록](https://orcid.org/0009-0009-5561-4441)은 저자와 이 연구를 연결합니다.
+
+이 번역 요약은 AI의 도움을 받아 작성하고 가능한 범위에서 영어 원문과 대조했습니다. 원어민이나 전문 번역사의 인증을 받지 않았습니다. 표현에 차이가 있다면 Zenodo의 영어 v1.0 PDF만을 공식 기준으로 삼습니다.
+
 ## 연구 상태
 
 **디지털 박테리아가 존재하거나 관찰되었다고 주장하지 않습니다. 이 연구는 미래 연구를 위한 반증 가능한 가설과 용어를 제안합니다.**
-
