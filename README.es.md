@@ -19,7 +19,12 @@ La hipótesis **no** afirma que se haya observado tal entidad. Establece un umbr
 
 La publicación original en inglés v1.0 y el PDF inalterado están en [Zenodo](https://doi.org/10.5281/zenodo.22830845). Esta página es un resumen traducido; en caso de diferencias, prevalece el PDF inglés de Zenodo.
 
+## Difusión y traducciones
+
+El PDF original en inglés v1.0 y su DOI están en [Zenodo](https://doi.org/10.5281/zenodo.22830845). La [página de Hugging Face](https://huggingface.co/datasets/SirJohnBasu/basu-digital-bacterium-hypothesis) facilita el descubrimiento de la obra y no aloja una copia del PDF. El [registro ORCID](https://orcid.org/0009-0009-5561-4441) vincula al autor con esta publicación.
+
+Este resumen traducido se preparó con ayuda de IA y se cotejó con el original inglés según nuestras posibilidades. No cuenta con certificación de hablantes nativos ni de traductores profesionales. Si hay alguna discrepancia, prevalece exclusivamente el PDF inglés v1.0 en Zenodo.
+
 ## Estado de la investigación
 
 **No se afirma que exista ni que se haya observado una bacteria digital. El trabajo propone una hipótesis falsable y terminología para futuras investigaciones.**
-
