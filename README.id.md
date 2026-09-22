@@ -19,7 +19,12 @@ Hipotesis ini **tidak** menyatakan bahwa entitas semacam itu telah diamati. Hipo
 
 Publikasi asli berbahasa Inggris v1.0 dan PDF yang tidak diubah tersedia di [Zenodo](https://doi.org/10.5281/zenodo.22830845). Halaman ini adalah ringkasan terjemahan; jika terdapat perbedaan, PDF Inggris di Zenodo menjadi acuan.
 
+## Distribusi dan terjemahan
+
+PDF asli berbahasa Inggris v1.0 beserta DOI tersedia di [Zenodo](https://doi.org/10.5281/zenodo.22830845). [Halaman Hugging Face](https://huggingface.co/datasets/SirJohnBasu/basu-digital-bacterium-hypothesis) membantu orang menemukan karya ini dan tidak menyimpan salinan PDF. [Rekaman ORCID](https://orcid.org/0009-0009-5561-4441) menghubungkan penulis dengan karya ini.
+
+Ringkasan terjemahan ini disusun dengan bantuan AI dan diperiksa terhadap naskah asli bahasa Inggris sebaik mungkin. Ringkasan ini belum disertifikasi oleh penutur asli atau penerjemah profesional. Jika ada perbedaan, hanya PDF bahasa Inggris v1.0 di Zenodo yang menjadi rujukan resmi.
+
 ## Status penelitian
 
 **Tidak ada klaim bahwa bakteri digital telah ada atau diamati. Karya ini mengusulkan hipotesis yang dapat diuji-salahkan dan istilah untuk penelitian mendatang.**
-
