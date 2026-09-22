@@ -19,7 +19,12 @@ Die Hypothese behauptet **nicht**, dass ein solches Gebilde beobachtet wurde. Si
 
 Die unveränderte englische Originalpublikation v1.0 und die PDF befinden sich auf [Zenodo](https://doi.org/10.5281/zenodo.22830845). Diese Seite ist eine erklärende Übersetzung. Bei Abweichungen ist die englische PDF auf Zenodo maßgebend.
 
+## Verbreitung und Übersetzungen
+
+Die englische Original-PDF v1.0 mit DOI liegt auf [Zenodo](https://doi.org/10.5281/zenodo.22830845). Die [Hugging-Face-Seite](https://huggingface.co/datasets/SirJohnBasu/basu-digital-bacterium-hypothesis) dient der Auffindbarkeit und enthält keine Kopie der PDF. Der [ORCID-Eintrag](https://orcid.org/0009-0009-5561-4441) verknüpft den Autor mit dieser Arbeit.
+
+Diese übersetzte Zusammenfassung wurde KI-gestützt erstellt und nach bestem Wissen mit dem englischen Original abgeglichen. Sie wurde weder von Muttersprachlern noch von professionellen Übersetzern zertifiziert. Bei Abweichungen ist ausschließlich die englische PDF v1.0 auf Zenodo maßgebend.
+
 ## Forschungsstatus
 
 **Es wird nicht behauptet, dass ein digitales Bakterium existiert oder beobachtet wurde. Die Arbeit formuliert eine falsifizierbare Hypothese und Terminologie für zukünftige Forschung.**
-
