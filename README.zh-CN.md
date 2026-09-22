@@ -19,7 +19,12 @@
 
 未经修改的英文 v1.0 原始论文及 PDF 保存在 [Zenodo](https://doi.org/10.5281/zenodo.22830845)。本页为解释性译文；如有差异，以 Zenodo 上的英文 PDF 为准。
 
+## 发布渠道与翻译说明
+
+英文原版 v1.0 PDF 和 DOI 保存在 [Zenodo](https://doi.org/10.5281/zenodo.22830845)。[Hugging Face 页面](https://huggingface.co/datasets/SirJohnBasu/basu-digital-bacterium-hypothesis) 用于帮助读者发现本研究，不提供 PDF 副本。[ORCID 记录](https://orcid.org/0009-0009-5561-4441) 将作者与本研究关联。
+
+本译文摘要在 AI 辅助下编写，并在力所能及的范围内与英文原文核对。它未经母语者或专业译者认证。如有表述差异，仅以 Zenodo 上的英文 v1.0 PDF 为准。
+
 ## 研究状态
 
 **本研究不声称数字细菌已经存在或被观察到。本文提出的是供未来研究使用的可证伪假说和术语。**
-
